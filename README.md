@@ -1,11 +1,9 @@
 # blogs-archive
 
-Sometimes, I save an article.  
-They are in `html` format.  
-Now, I save them as `markdown` format.  
-And with [Markdeep](https://casual-effects.com/markdeep/).  
-See [index.md.html](docs/index.md.html).  
-I used some experiences when I archiving [PIDAN-journal].
+I saved articles that in `html` format as `markdown` format.  
+With [Markdeep](https://casual-effects.com/markdeep/).  
+See [index](docs/index.md.html) file.  
+I used some experiences when I archiving [PIDAN-journal](https://github.com/scillidan/PIDAN-journal).
 
 ## todo
 
