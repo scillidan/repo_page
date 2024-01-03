@@ -1,10 +1,4 @@
 # repo_page
 
-I saved articles that in `html` format as `markdown` format.  
-With [Markdeep](https://casual-effects.com/markdeep/).  
-See [index](docs/index.md.html) file.  
-I used some experiences when I archiving [PIDAN-journal](https://github.com/scillidan/PIDAN-journal).
-
-## todo
-
-- [ ] add tags
+I saved some articles with `markdown` format. Render to `html` using [Markdeep](https://casual-effects.com/markdeep/).  
+See [index.md.html](docs/index.md.html).
