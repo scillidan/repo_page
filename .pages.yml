@@ -6,6 +6,7 @@ content:
     type: collection
     fields:
       - { name: title, lable: Title, type: string }
+      - { name: layout, lable: string, hidden: true, default: post }
       - { name: date, lable: Date, type: date }
       - { name: description, lable: Description, type: string, options: { maxlength: 160 } }
       - { name: image, lable: Image, type: image }
